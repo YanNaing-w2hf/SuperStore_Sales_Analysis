@@ -81,3 +81,10 @@ Key Fields:
 ├── report
 ├── images
 └── README.md
+
+## Future Improvements
+- Year-over-Year trend analysis
+- Customer retention analysis
+- Profit margin analysis
+- Product-level profitability analysis
+- Sales forecasting
