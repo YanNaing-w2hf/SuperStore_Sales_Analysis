@@ -43,3 +43,41 @@ Key Fields:
 ## Dashboard Preview
 
 ### Overview Dashboard
+![Overview](images/overview.png)
+
+### Sales Trend Analysis
+![Trend](images/Trend.png)
+
+### Regional Performance
+![Region](images/Region.png)
+
+## Key Findings
+
+### Overall Performance
+- Total Sales: $1.92M
+- Total Profit: $224K
+- Total Orders: 1.36K
+
+### Product Categories
+- Office Supplies generated the highest profit.
+- Furniture generated the lowest profit.
+
+### Customer Segment
+- Corporate customers generated the highest sales.
+
+### Regional Analysis
+- East and West regions outperformed Central and South regions.
+
+## Business Recommendations
+1. Increase investment in Office Supplies products.
+2. Expand marketing efforts toward Corporate customers.
+3. Investigate causes of low Furniture profitability.
+4. Analyze drivers behind April's sales peak.
+5. Develop growth strategies for underperforming regions.
+
+## Repository Structure
+├── data
+├── dashboard
+├── report
+├── images
+└── README.md
