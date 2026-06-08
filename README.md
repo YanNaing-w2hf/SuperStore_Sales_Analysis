@@ -76,11 +76,15 @@ Key Fields:
 5. Develop growth strategies for underperforming regions.
 
 ## Repository Structure
+```text
+SuperStore_Sales_Analysis
+│
 ├── data
 ├── dashboard
 ├── report
 ├── images
 └── README.md
+```
 
 ## Future Improvements
 - Year-over-Year trend analysis
