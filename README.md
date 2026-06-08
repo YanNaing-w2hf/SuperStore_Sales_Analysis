@@ -43,13 +43,13 @@ Key Fields:
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Overview](images/overview.png)
+![Overview](Images/overview.png)
 
 ### Sales Trend Analysis
-![Trend](images/Trend.png)
+![Trend](Images/Trend.png)
 
 ### Regional Performance
-![Region](images/Region.png)
+![Region](Images/Region.png)
 
 ## Key Findings
 
