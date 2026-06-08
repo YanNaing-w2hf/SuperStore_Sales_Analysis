@@ -43,7 +43,7 @@ Key Fields:
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Overview](Images/overview.png)
+![Overview](Images/Overview.png)
 
 ### Sales Trend Analysis
 ![Trend](Images/Trend.png)
