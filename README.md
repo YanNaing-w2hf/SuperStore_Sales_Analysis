@@ -5,7 +5,7 @@ The objective is to identify key sales drivers, profitable product categories, c
 The findings are intended to support management decision-making and business growth strategies.
 
 ## Business Problem
-Management needs to visibility into:L
+Management needs to visibility into:
 - Sales performance trends
 - Profitability by product category
 - Customer segment contribution
